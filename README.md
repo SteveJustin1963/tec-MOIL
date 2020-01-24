@@ -1,2 +1,2 @@
 # tec-MOIL
-TEC-1 millikan oil drop experiment
+TEC-1  Robert A. Millikan and Harvey Fletcher oil drop experiment
