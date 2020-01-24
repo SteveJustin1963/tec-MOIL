@@ -1,2 +1,2 @@
-# tec-MILLIKAN-OIL-DROP
+# tec-MOIL
 TEC-1 millikan oil drop experiment
